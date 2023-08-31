@@ -1,1 +1,5 @@
-// Code your solution in this file!
+let companyName = 'Scuber';
+function setcompanyName(Scuber) {
+   const companyName = Scuber
+}
+
